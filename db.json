@@ -4,23 +4,23 @@
     { "id": 2, "nombre": "Los Cedritos" }
   ],
   "pending_visits": [
-    { "id": 1, "body": "Marco Meza", "status": "Pendiente"},
-    { "id": 2, "body": "Pedro Perez", "status": "Pendiente" },
-    { "id": 4, "body": "Karla Carranza", "status": "Pendiente" },
-    { "id": 7, "body": "Maria Merlo ", "status": "Pendiente" },
-    { "id": 8, "body": "Antonio Lopez", "status": "Pendiente" }
+    { "id": 1, "name": "Marco Meza", "status": "Pendiente"},
+    { "id": 2, "name": "Pedro Perez", "status": "Pendiente" },
+    { "id": 4, "name": "Karla Carranza", "status": "Pendiente" },
+    { "id": 7, "name": "Maria Merlo ", "status": "Pendiente" },
+    { "id": 8, "name": "Antonio Lopez", "status": "Pendiente" }
   ],
   "all_visits": [
-    { "id": 1, "body": "Marco Meza", "status": "Pendiente"},
-    { "id": 2, "body": "Pedro Perez", "status": "Pendiente" },
-    { "id": 3, "body": "Victorio Velez", "status": "Completada" },
-    { "id": 4, "body": "Karla Carranza", "status": "Pendiente" },
-    { "id": 5, "body": "Lourdes Lopez", "status": "Completada" },
-    { "id": 6, "body": "Zoila Miranda", "status": "Completada" },
-    { "id": 7, "body": "Maria Merlo ", "status": "Pendiente" },
-    { "id": 8, "body": "Antonio Lopez", "status": "Pendiente" },
-    { "id": 9, "body": "Dunio Damasco", "status": "Completada" },
-    { "id": 10, "body": "Rocio Rivera", "status": "Cancelado" }
+    { "id": 1, "name": "Marco Meza", "status": "Pendiente"},
+    { "id": 2, "name": "Pedro Perez", "status": "Pendiente" },
+    { "id": 3, "name": "Victorio Velez", "status": "Completada" },
+    { "id": 4, "name": "Karla Carranza", "status": "Pendiente" },
+    { "id": 5, "name": "Lourdes Lopez", "status": "Completada" },
+    { "id": 6, "name": "Zoila Miranda", "status": "Completada" },
+    { "id": 7, "name": "Maria Merlo ", "status": "Pendiente" },
+    { "id": 8, "name": "Antonio Lopez", "status": "Pendiente" },
+    { "id": 9, "name": "Dunio Damasco", "status": "Completada" },
+    { "id": 10, "name": "Rocio Rivera", "status": "Cancelado" }
   ],
   "profile": {
     "name": "typicode"
