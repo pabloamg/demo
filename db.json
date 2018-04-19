@@ -4,16 +4,11 @@
     { "id": 2, "nombre": "Los Cedritos" }
   ],
   "pending_visits": [
-    { "id": 1, "name": "Marco Meza", "status": "Pendiente" },
+    { "id": 1, "name": "Marco Meza", "status": "Pendiente"},
     { "id": 2, "name": "Pedro Perez", "status": "Pendiente" },
     { "id": 4, "name": "Karla Carranza", "status": "Pendiente" },
-    { "id": 7, "name": "Maria Merlo Perez", "status": "Pendiente" },
-    { "id": 8, "name": "Antonio Lopez", "status": "Pendiente" },
-    { "id": 11, "name": "Marco Meza", "status": "Pendiente" },
-    { "id": 12, "name": "Pedro Perez", "status": "Pendiente" },
-    { "id": 14, "name": "Karla Carranza", "status": "Pendiente" },
-    { "id": 17, "name": "Maria Merlo Perez", "status": "Pendiente" },
-    { "id": 18, "name": "Antonio Lopez", "status": "Pendiente" }
+    { "id": 7, "name": "Maria Merlo Perez", "status": "Completada" },
+    { "id": 8, "name": "Antonio Lopez", "status": "Pendiente" }
   ],
   "all_visits": [
     { "id": 1, "name": "Marco Meza", "status": "Pendiente"},
