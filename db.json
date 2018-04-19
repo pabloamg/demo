@@ -13,7 +13,7 @@
     { "id": 7, "name": "Maria Merlo ", "status": "Pendiente" },
     { "id": 8, "name": "Antonio Lopez", "status": "Pendiente" },
     { "id": 9, "name": "Dunio Damasco", "status": "Completada" },
-    { "id": 10, "name": "Rocio Rivera", "status": "Cancelado" }
+    { "id": 10, "name": "Rocio Rivera", "status": "Cancelado"}
   ],
   "all_visits": [
     { "id": 1, "name": "Marco Meza", "status": "Pendiente"},
