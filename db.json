@@ -6,14 +6,14 @@
   "pending_visits": [
     { "id": 1, "name": "Marco Meza", "status": "Pendiente"},
     { "id": 2, "name": "Pedro Perez", "status": "Pendiente" },
-    { "id": 3, "name": "Victorio Velez", "status": "Completada" },
     { "id": 4, "name": "Karla Carranza", "status": "Pendiente" },
-    { "id": 5, "name": "Lourdes Lopez", "status": "Completada" },
-    { "id": 6, "name": "Zoila Miranda", "status": "Completada" },
-    { "id": 7, "name": "Maria Merlo ", "status": "Pendiente" },
-    { "id": 8, "name": "Antonio Lopez", "status": "Pendiente" },
-    { "id": 9, "name": "Dunio Damasco", "status": "Completada" },
-    { "id": 10, "name": "Rocio Rivera", "status": "Cancelado"}
+    { "id": 7, "name": "Maria Merlo Perez", "status": "Completada" },
+    { "id": 8, "name": "Antonio Lopez", "status": "Pendiente" }
+    { "id": 11, "name": "Marco Meza", "status": "Pendiente"},
+    { "id": 12, "name": "Pedro Perez", "status": "Pendiente" },
+    { "id": 14, "name": "Karla Carranza", "status": "Pendiente" },
+    { "id": 17, "name": "Maria Merlo Perez", "status": "Completada"},
+    { "id": 18, "name": "Antonio Lopez", "status": "Pendiente"}
   ],
   "all_visits": [
     { "id": 1, "name": "Marco Meza", "status": "Pendiente"},
