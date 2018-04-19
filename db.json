@@ -7,7 +7,7 @@
     { "id": 1, "name": "Marco Meza", "status": "Pendiente"},
     { "id": 2, "name": "Pedro Perez", "status": "Pendiente" },
     { "id": 4, "name": "Karla Carranza", "status": "Pendiente" },
-    { "id": 7, "name": "Maria Merlo Perez", "status": "Pendiente" },
+    { "id": 7, "name": "Maria Merlo Perez", "status": "Completada" },
     { "id": 8, "name": "Antonio Lopez", "status": "Pendiente" }
   ],
   "all_visits": [
